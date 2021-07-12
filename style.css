@@ -123,3 +123,16 @@ body{font-family: 'Montserrat', sans-serif;}
     text-align:center;
     color:white;
 }
+
+.projects-heding{
+    text-align:center;
+}
+
+.project1-dis{
+    padding-top:1rem;
+    padding-bottom: 1rem;
+}
+
+.project1{
+    padding-bottom:3rem;
+}
