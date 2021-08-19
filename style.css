@@ -38,8 +38,15 @@ body{font-family: 'Montserrat', sans-serif;}
 }
 
 .theme_image{
-    max-width : 70rem;
-    padding-left: 10rem;
+    
+        max-width: 80%;
+        height: auto;
+        padding: 3rem;
+    
+  
+}
+.header{
+    margin: auto;
 }
 
 .heading{
