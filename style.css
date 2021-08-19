@@ -152,6 +152,7 @@ body{font-family: 'Montserrat', sans-serif;}
    margin:auto;
    display:block;
    padding-top:2rem;
+   max-height: 80vh;
  
    
 }
@@ -159,11 +160,19 @@ body{font-family: 'Montserrat', sans-serif;}
 .persuit-img{
     margin:auto;
    display:block;
-   padding-top:2rem
+   padding-top:2rem;
+   
 }
 
 
 body{
     margin:0;
     padding: 0;
+}
+
+
+.content{
+    max-width: 50%;
+    margin: auto;
+    padding-top: 2rem;
 }
