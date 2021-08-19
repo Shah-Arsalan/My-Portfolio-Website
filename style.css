@@ -158,3 +158,8 @@ body{font-family: 'Montserrat', sans-serif;}
    padding-top:2rem
 }
 
+
+body{
+    margin:0;
+    padding: 0;
+}
