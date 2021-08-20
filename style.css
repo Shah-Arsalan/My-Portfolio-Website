@@ -153,6 +153,7 @@ body{font-family: 'Montserrat', sans-serif;}
    display:block;
    padding-top:2rem;
    max-height: 80vh;
+   max-width: 50%;
  
    
 }
@@ -176,4 +177,8 @@ body{
     max-width: 70%;
     margin: auto;
     padding-top: 2rem;
+}
+
+.list-blog{
+    list-style: none;
 }
