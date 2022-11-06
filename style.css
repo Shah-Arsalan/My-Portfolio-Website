@@ -38,6 +38,15 @@ body{font-family: 'Montserrat', sans-serif;}
     color:white;
 }
 
+.navigation-bar .link:hover{
+    color:black;
+}
+
+
+.navigation-bar .link:active{
+    color:black;
+}
+
 .theme_image{
     
         max-width: 80%;
@@ -181,4 +190,8 @@ body{
 
 .list-blog{
     list-style: none;
+}
+
+.navigation-bar .underline{
+    color: black;
 }
